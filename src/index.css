@@ -1,0 +1,31 @@
+body {
+    background-color: bisque;
+    }
+
+.header {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    }
+
+.subtitle {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    }
+
+.icon {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    }
+
+.Cheader {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
